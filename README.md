@@ -51,13 +51,13 @@
 <summary>production that impressed me recently :</summary>
 
 **Blue Archive**  
-- 4ver PV
+- 4ver PV  
 [![icon/blue.png](icon/blue.png)](https://www.youtube.com/watch?v=kbnfrvrhv0M&ab_channel=%EB%B8%94%EB%A3%A8%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C)  
 
 **Genshin Impact**
-- 3.2 ver PV
+- 3.2 ver PV  
 [![icon/3.2pv.png](icon/3.2pv.png)](https://www.youtube.com/watch?app=desktop&v=4L5xmU_8Y5w&ab_channel=%EC%9B%90%EC%8B%A0)    
-- Nahida PV
+- Nahida PV  
 [![icon/nahida_pv.jpg](icon/nahida_pv.jpg)](https://www.youtube.com/watch?app=desktop&v=PjjBCKzD9LE&ab_channel=%EC%9B%90%EC%8B%A0)  
 </details>    
 
