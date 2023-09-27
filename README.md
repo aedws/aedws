@@ -11,15 +11,15 @@
 - 📫 Email me at [aedws98@gmail.com](mailto:aedws98@gmail.com).  
   
 -----
- **Developed projects:** 
+ **Developed projects:**
 
 [fragments of the moon](https://drive.google.com/file/d/1_F57CeFbwKo_CsG3QpBL20tzLBatSu4G/view?usp=sharing) - 2D collection game
+[Project Designer]
 
-
+**game under development :**
 <details>
-<summary>game under development :</summary>
+  <summary>Stella Forest</summary>
 
-## Stella Forest
 - 2D Flatformer game (Project designer)
 [Revealed upon completion]
 - programmer : [ICB](https://github.com/ckdqja581592)
