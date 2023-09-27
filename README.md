@@ -28,25 +28,14 @@
 - programmer : [ICB](https://github.com/ckdqja581592)
 </details>    
   
-  
-**Used Languages:**  
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/c.png"></code> C
+**Used Languages:**   <code><img height="20" src="https://img.icons8.com/nolan/96/c.png"></code> C
+ <code><img height="20" src="icon/csharp.png"></code> C# 
+ <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
-<code><img height="20" src="icon/csharp.png"></code> C# 
+**Used Tools :** <code><img height="20" src="icon/PowerPoint.png"></code> PowerPoint <code><img height="20" src="icon/excel.png"></code> Excel
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
-
-**Used Tools :**
-
-<code><img height="20" src="icon/PowerPoint.png"></code> PowerPoint
-
-<code><img height="20" src="icon/excel.png"></code> Excel
-
-<code><img height="20" src="icon/access.png"></code> Access
-
-<code><img height="20" src="icon/word.png"></code> Word
-
+<code><img height="20" src="icon/access.png"></code> Access <code><img height="20" src="icon/word.png"></code> Word
 <code><img height="20" src="icon/hanword.png"></code> Hanword
 
 -----
