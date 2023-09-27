@@ -4,8 +4,8 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m an undergraduate student currently studying planning at Sogang University's Game Education Center.
-- 🌱 I’m working on the project with great interest in 2D game planning.
+- 👨🏽‍💻 I’m an undergraduate student currently studying Designer at Sogang University's Game Education Center.
+- 🌱 I’m working on the project with great interest in 2D game Design.
 - 📫 Email me at [aedws98@gmail.com](mailto:aedws98@gmail.com).
 
 **Used Languages:**  
@@ -38,6 +38,10 @@
 
 **game under development :**
 
-Stella Forest - 2D Flatformer game
+Stella Forest - 2D Flatformer game 
+(Project designer)
 
+[Revealed upon completion]
+
+- programmer : [ICB](https://github.com/ckdqja581592)
 -----
