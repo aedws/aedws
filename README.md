@@ -23,7 +23,8 @@
 - 2D Flatformer game (Project designer)
 [Revealed upon completion]
 - programmer : [ICB](https://github.com/ckdqja581592)
-</details>    
+</details>  
+
   
 
 **Used Languages:**   <code><img height="20" src="https://img.icons8.com/nolan/96/c.png"></code> C
