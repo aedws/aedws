@@ -25,17 +25,6 @@
 - programmer : [ICB](https://github.com/ckdqja581592)
 </details>    
 
-  
-
-<details>
-<summary> mostly played games </summary>
-
-  - [Genshin Impact](https://genshin.hoyoverse.com/ko/home) [Interested in game design analysis and demand]
-  - [azur lane](https://azurlane.xdg.com/) [Analysis of the collection game of beautiful girls]
-  - [Blue Archive](https://www.nexongames.co.kr/game/blue_archive.php) [Analysis of the collection game of beautiful girls]
-  - [girls Frontline](https://www.girlsfrontline.co.kr/) [Analysis of the collection game of beautiful girls]
-</details>  
-
 -----
 
 **Used Languages:**   <code><img height="20" src="https://img.icons8.com/nolan/96/c.png"></code> C
@@ -48,6 +37,15 @@
 <code><img height="20" src="icon/hanword.png"></code> Hanword
 
 -----
+
+<details>
+<summary> mostly played games </summary>
+
+  - [Genshin Impact](https://genshin.hoyoverse.com/ko/home) [Interested in game design analysis and demand]
+  - [azur lane](https://azurlane.xdg.com/) [Analysis of the collection game of beautiful girls]
+  - [Blue Archive](https://www.nexongames.co.kr/game/blue_archive.php) [Analysis of the collection game of beautiful girls]
+  - [girls Frontline](https://www.girlsfrontline.co.kr/) [Analysis of the collection game of beautiful girls]
+</details>    
 
 <details>
 <summary>production that impressed me recently :</summary>
