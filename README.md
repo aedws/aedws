@@ -29,5 +29,15 @@
 <code><img height="20" src="icon/hanword.png"></code> Hanword
 
 
+**Developed projects:**  
+
+[fragments of the moon](https://drive.google.com/file/d/1_F57CeFbwKo_CsG3QpBL20tzLBatSu4G/view?usp=sharing) - 2D collection game
+
+
+
+
+**game under development :**
+
+Stella Forest - 2D Flatformer game
 
 -----
