@@ -9,10 +9,7 @@
 - 🌱 I’m working on the project with great interest in 2D game Design.
 - 📫 Email me at [aedws98@gmail.com](mailto:aedws98@gmail.com).  
   
-  
 
-  
-  
  **Developed projects:** 
 
 [fragments of the moon](https://drive.google.com/file/d/1_F57CeFbwKo_CsG3QpBL20tzLBatSu4G/view?usp=sharing) - 2D collection game
@@ -35,7 +32,7 @@
 
 **Used Tools :** <code><img height="20" src="icon/PowerPoint.png"></code> PowerPoint <code><img height="20" src="icon/excel.png"></code> Excel
 
-<code><img height="20" src="icon/access.png"></code> Access <code><img height="20" src="icon/word.png"></code> Word
+<code><img height="20" src="icon/access.png"></code> Access <code><img height="20" src="icon/Word.png"></code> Word
 <code><img height="20" src="icon/hanword.png"></code> Hanword
 
 -----
