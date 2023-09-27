@@ -7,6 +7,7 @@
 
 - 👨🏽‍💻 I’m an undergraduate student currently studying Designer at Sogang University's Game Education Center.
 - 🌱 I’m working on the project with great interest in 2D game Design.
+- 💬 A man can be destroyed but he cannot be defeated. like to write a story about.
 - 📫 Email me at [aedws98@gmail.com](mailto:aedws98@gmail.com).  
   
 
@@ -31,10 +32,10 @@
 <summary> mostly played games </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
-  - Genshin Impact [Interested in game design analysis and demand]
-  - azur lane [Analysis of the collection game of beautiful girls]
-  - Blue Archive [Analysis of the collection game of beautiful girls]
-  - girls Frontline [Analysis of the collection game of beautiful girls]
+  - [Genshin Impact](https://genshin.hoyoverse.com/ko/home) [Interested in game design analysis and demand]
+  - [azur lane](https://azurlane.xdg.com/) [Analysis of the collection game of beautiful girls]
+  - [Blue Archive](https://www.nexongames.co.kr/game/blue_archive.php) [Analysis of the collection game of beautiful girls]
+  - [girls Frontline](https://www.girlsfrontline.co.kr/) [Analysis of the collection game of beautiful girls]
 </details>  
 
 **Used Languages:**   <code><img height="20" src="https://img.icons8.com/nolan/96/c.png"></code> C
