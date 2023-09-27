@@ -23,9 +23,19 @@
 - 2D Flatformer game (Project designer)
 [Revealed upon completion]
 - programmer : [ICB](https://github.com/ckdqja581592)
-</details>  
+</details>    
 
   
+
+<details>
+<summary> mostly played games </summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
+  - Genshin Impact [Interested in game design analysis and demand]
+  - azur lane [Analysis of the collection game of beautiful girls]
+  - Blue Archive [Analysis of the collection game of beautiful girls]
+  - girls Frontline [Analysis of the collection game of beautiful girls]
+</details>  
 
 **Used Languages:**   <code><img height="20" src="https://img.icons8.com/nolan/96/c.png"></code> C
  <code><img height="20" src="icon/csharp.png"></code> C# 
