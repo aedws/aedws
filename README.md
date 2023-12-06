@@ -7,7 +7,7 @@
 
 - 👨🏽‍💻 I’m an undergraduate student currently studying Designer at Sogang University's Game Education Center.
 - 🌱 I’m working on the project with great interest in 2D game Design.
-- 💬 A man can be destroyed but he cannot be defeated. like to write a story.
+- 💬 "A man can be destroyed but he cannot be defeated." like to write a story.
 - 📫 Email me at [aedws98@gmail.com](mailto:aedws98@gmail.com).  
   
 -----
@@ -28,8 +28,7 @@
 -----
 
 **Used Languages:**   <code><img height="20" src="https://img.icons8.com/nolan/96/c.png"></code> C
- <code><img height="20" src="icon/csharp.png"></code> C# 
- <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
+ <code><img height="20" src="icon/csharp.png"></code> C#
 
 **Used Tools :** <code><img height="20" src="icon/PowerPoint.png"></code> PowerPoint <code><img height="20" src="icon/excel.png"></code> Excel
 
