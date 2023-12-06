@@ -1,63 +1,59 @@
-<h2 title="hehehe"> Hey 👋, I'm Lee Byungchan!</h2>
+<h2 title="hehehe"> 안녕하세요👋, 저는 이병찬이라고 합니다!</h2>
  
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 
-**About Me!**
+**저는 이런 사람입니다!**
 
-- 👨🏽‍💻 I’m an undergraduate student currently studying Designer at Sogang University's Game Education Center.
-- 🌱 I’m working on the project with great interest in 2D game Design.
-- 💬 "A man can be destroyed but he cannot be defeated." like to write a story.
-- 📫 Email me at [aedws98@gmail.com](mailto:aedws98@gmail.com).  
+- 👨🏽‍💻 서강대학교 게임&평생 교육원에서 공부하고 있습니다.
+- 🌱 지금은 2D 게임을 주로 기획 및 설계 하고 있으며, 흥미롭고 매력적인 게임을 만드는 것을 목표로 하고 있습니다.
+- 💬 "인간은 패배하기 위해 태어나지 않았어. 인간은 파괴될 수 있지만 패배할 수는 없어. - 어네스트 헤밍웨이" 와 같은 인간 찬가를 다루는 이야기를 만들고 싶습니다.
+- 📫 제 이메일은 [aedws98@gmail.com](mailto:aedws98@gmail.com) 입니다.
   
 -----
- **Developed projects:**
+ **개발 완료한 프로젝트 :**
 
-[fragments of the moon](https://drive.google.com/file/d/1_F57CeFbwKo_CsG3QpBL20tzLBatSu4G/view?usp=sharing) - 2D collection game
-[Project Designer]
+[달의 파편](https://drive.google.com/file/d/1_F57CeFbwKo_CsG3QpBL20tzLBatSu4G/view?usp=sharing) - 2D 미소녀 수집형 게임 [메인 총괄 기획]
 
-**game under development :**
-<details>
-  <summary>Stella Forest</summary>
+**개발 중인 프로젝트 :**
 
-- 2D Flatformer game (Project designer)
-[Revealed upon completion]
-- programmer : [ICB](https://github.com/ckdqja581592)
+[Stella Forest]()
+- 2D 액션 플랫포머 게임 [메인 총괄 기획] [개발 완료 뒤 공개 예정]
+- 프로그래머 : [ICB](https://github.com/ckdqja581592)
 </details>    
 
 -----
 
-**Used Languages:**   <code><img height="20" src="https://img.icons8.com/nolan/96/c.png"></code> C
+**읽을 수 있는, 사용은 가능한 프로그래밍 언어 :**   <code><img height="20" src="https://img.icons8.com/nolan/96/c.png"></code> C
  <code><img height="20" src="icon/csharp.png"></code> C#
 
-**Used Tools :** <code><img height="20" src="icon/PowerPoint.png"></code> PowerPoint <code><img height="20" src="icon/excel.png"></code> Excel
+**문서 사용 시 자주 사용하는 언어 :** 
 
-<code><img height="20" src="icon/access.png"></code> Access <code><img height="20" src="icon/Word.png"></code> Word
-<code><img height="20" src="icon/hanword.png"></code> Hanword
+<code><img height="20" src="icon/PowerPoint.png"></code> PPT <code><img height="20" src="icon/excel.png"></code> Excel
+<code><img height="20" src="icon/Word.png"></code> Word
+<code><img height="20" src="icon/hanword.png"></code> 한글
 
 -----
+## **자주 플레이 한 게임 목록** 
 
-<details>
-<summary> mostly played games </summary>
+  - [Genshin Impact](https://genshin.hoyoverse.com/ko/home) 
+  [전투 디자인적인 흥미를 위주로 플레이 합니다.]
+  - [azur lane](https://azurlane.xdg.com/) [미소녀만 구성되어 있는 수집형 게임의 매력을 좋아합니다.]
+  - [Blue Archive](https://www.nexongames.co.kr/game/blue_archive.php) [깊이 있는 이야기의 서사를 좋아합니다.]
+  - [girls Frontline](https://www.girlsfrontline.co.kr/) [캐릭터를 활용하여 전술적 의미를 만드는 게임 디자인을 좋아합니다.]
 
-  - [Genshin Impact](https://genshin.hoyoverse.com/ko/home) [Interested in game design analysis and demand]
-  - [azur lane](https://azurlane.xdg.com/) [Analysis of the collection game of beautiful girls]
-  - [Blue Archive](https://www.nexongames.co.kr/game/blue_archive.php) [Analysis of the collection game of beautiful girls]
-  - [girls Frontline](https://www.girlsfrontline.co.kr/) [Analysis of the collection game of beautiful girls]
-</details>    
 
-<details>
-<summary>production that impressed me recently :</summary>
+## **이런 연출을 좋아하고, 만들고 싶습니다.**
 
 **Blue Archive**  
-- 4ver PV  
+- 1부 최종편 PV
 [![icon/blue.png](icon/blue.png)](https://www.youtube.com/watch?v=kbnfrvrhv0M&ab_channel=%EB%B8%94%EB%A3%A8%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C)  
 
 **Genshin Impact**
 - 3.2 ver PV  
 [![icon/3.2pv.png](icon/3.2pv.png)](https://www.youtube.com/watch?app=desktop&v=4L5xmU_8Y5w&ab_channel=%EC%9B%90%EC%8B%A0)    
+
 - Nahida PV  
 [![icon/nahida_pv.jpg](icon/nahida_pv.jpg)](https://www.youtube.com/watch?app=desktop&v=PjjBCKzD9LE&ab_channel=%EC%9B%90%EC%8B%A0)  
-</details>    
 
 -----
