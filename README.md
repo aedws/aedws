@@ -13,34 +13,37 @@
 -----
  **개발 완료한 프로젝트 :**
 
-[달의 파편](https://drive.google.com/file/d/1_F57CeFbwKo_CsG3QpBL20tzLBatSu4G/view?usp=sharing) - 2D 미소녀 수집형 게임 [메인 총괄 기획]
+[달의 파편](https://drive.google.com/file/d/1_F57CeFbwKo_CsG3QpBL20tzLBatSu4G/view?usp=sharing)
+- 2D 미소녀 수집형 게임 [메인 총괄 기획]
+
+[Stella Forest](https://drive.google.com/file/d/17hvFrx4CyN_hIBPPRNo11NH3e97FaOR9/view?usp=drive_link)
+- 2D 액션 플랫포머 게임 [메인 총괄 기획]
+- 프로그래머 : [ICB](https://github.com/ckdqja581592)  
 
 **개발 중인 프로젝트 :**
 
-[Stella Forest]()
-- 2D 액션 플랫포머 게임 [메인 총괄 기획] [개발 완료 뒤 공개 예정]
-- 프로그래머 : [ICB](https://github.com/ckdqja581592)
-</details>    
+[Project T]()
+- TPS 캐주얼 RPG [메인 총괄 기획] [개발 완료 뒤 공개 예정]
 
 -----
 
-**읽을 수 있는, 사용은 가능한 프로그래밍 언어 :**   <code><img height="20" src="https://img.icons8.com/nolan/96/c.png"></code> C
- <code><img height="20" src="icon/csharp.png"></code> C#
-
-**문서 사용 시 자주 사용하는 언어 :** 
+**문서 사용 시 자주 사용하는 도구 :** 
 
 <code><img height="20" src="icon/PowerPoint.png"></code> PPT <code><img height="20" src="icon/excel.png"></code> Excel
 <code><img height="20" src="icon/Word.png"></code> Word
 <code><img height="20" src="icon/hanword.png"></code> 한글
 
+**읽을 수 있는, 사용은 가능한 프로그래밍 언어 :**   <code><img height="20" src="https://img.icons8.com/nolan/96/c.png"></code> C
+ <code><img height="20" src="icon/csharp.png"></code> C#
+
 -----
 ## **자주 플레이 한 게임 목록** 
 
-  - [Genshin Impact](https://genshin.hoyoverse.com/ko/home) 
+  - [원신](https://genshin.hoyoverse.com/ko/home) 
   [전투 디자인적인 흥미를 위주로 플레이 합니다.]
-  - [azur lane](https://azurlane.xdg.com/) [미소녀만 구성되어 있는 수집형 게임의 매력을 좋아합니다.]
-  - [Blue Archive](https://www.nexongames.co.kr/game/blue_archive.php) [깊이 있는 이야기의 서사를 좋아합니다.]
-  - [girls Frontline](https://www.girlsfrontline.co.kr/) [캐릭터를 활용하여 전술적 의미를 만드는 게임 디자인을 좋아합니다.]
+  - [벽람항로](https://azurlane.xdg.com/) [미소녀만 구성되어 있는 수집형 게임의 매력을 좋아합니다.]
+  - [블루 아카이브](https://www.nexongames.co.kr/game/blue_archive.php) [깊이 있는 이야기의 서사를 좋아합니다.]
+  - [소녀전선](https://www.girlsfrontline.co.kr/) [캐릭터를 활용하여 전술적 의미를 만드는 게임 디자인을 좋아합니다.]
 
 
 ## **이런 연출을 좋아하고, 만들고 싶습니다.**
