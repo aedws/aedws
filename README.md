@@ -15,10 +15,11 @@
 
 [달의 파편](https://drive.google.com/file/d/1_F57CeFbwKo_CsG3QpBL20tzLBatSu4G/view?usp=sharing)
 - 2D 미소녀 수집형 게임 [메인 총괄 기획]
+- 프로그래머 : [조래현](https://github.com/project-narh)
 
 [Stella Forest](https://drive.google.com/file/d/17hvFrx4CyN_hIBPPRNo11NH3e97FaOR9/view?usp=drive_link)
 - 2D 액션 플랫포머 게임 [메인 총괄 기획]
-- 프로그래머 : [ICB](https://github.com/ckdqja581592)  
+- 프로그래머 : [임창범](https://github.com/ckdqja581592)  
 
 **개발 중인 프로젝트 :**
 
