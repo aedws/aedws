@@ -20,12 +20,6 @@
 [Stella Forest](https://drive.google.com/file/d/17hvFrx4CyN_hIBPPRNo11NH3e97FaOR9/view?usp=drive_link)
 - 2D 액션 플랫포머 게임 [메인 총괄 기획]
 - 프로그래머 : [임창범](https://github.com/ckdqja581592)  
-
-**개발 중인 프로젝트 :**
-
-Stella Forest - 2024
-- 2D 액션 플랫포머 게임, 개선을 위해 개발 연장 [메인 총괄 기획]
-- 프로그래머 : [임창범](https://github.com/ckdqja581592)  
 - 아트 디렉터 & 캐릭터 일러스트 & 애니메이션 : [이영서](https://x.com/Takashi__0710?t=0UlmOuHtDp466KzLUVoijA&s=09)
 - UI 디자이너 : [홍정기](https://www.pixiv.net/users/22775264)
 
