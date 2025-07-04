@@ -11,7 +11,7 @@
 - 📫 제 이메일은 [aedws98@gmail.com](mailto:aedws98@gmail.com) 입니다.
 <br>
 <br>
-<iframe style="border-radius:12px" src="https://open.spotify.com/playlist/2qGY8iCvo0hou56Wm5WJo1?si=2rExd18WR_ykdcH8Lo1YnQ" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2qGY8iCvo0hou56Wm5WJo1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 -----
 
