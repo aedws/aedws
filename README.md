@@ -11,14 +11,11 @@
 - 📫 제 이메일은 [aedws98@gmail.com](mailto:aedws98@gmail.com) 입니다.
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+<iframe style="border-radius:12px" src="https://open.spotify.com/playlist/2qGY8iCvo0hou56Wm5WJo1?si=2rExd18WR_ykdcH8Lo1YnQ" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 -----
 
- **현재 개발중인 프로젝트 :**
+## **현재 개발중인 프로젝트 :**
 
 
 [LootShooter_2025_2D](https://github.com/aedws/LootShooter_2025_2D)
@@ -28,7 +25,7 @@
 - 사용 리소스 에셋 : [정리 완료 시 추가될 예정입니다.]()
 
 -----
- **개발 완료한 프로젝트 :**
+## **개발 완료한 프로젝트 :**
 
 [달의 파편](https://drive.google.com/file/d/1_F57CeFbwKo_CsG3QpBL20tzLBatSu4G/view?usp=sharing)
 - 2D 미소녀 수집형 게임 [메인 총괄 기획]
@@ -46,7 +43,7 @@
 -----
 <br>
 
-**문서 사용 시 자주 사용하는 도구 :** 
+## **문서 사용 시 자주 사용하는 도구 :** 
 
 <code><img height="20" src="icon/PowerPoint.png"></code> PPT <code><img height="20" src="icon/excel.png"></code> Excel
 <code><img height="20" src="icon/Word.png"></code> Word
