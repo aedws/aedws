@@ -48,12 +48,12 @@
 
 ## **문서 사용 시 자주 사용하는 도구 :** 
 
-<code><img height="20" src="icon/PowerPoint.png"></code> PPT <code><img height="20" src="icon/excel.png"></code> Excel
-<code><img height="20" src="icon/Word.png"></code> Word
-<code><img height="20" src="icon/hanword.png"></code> 한글
+<img src="icon/PowerPoint.png" width="20"> PPT <img src="icon/excel.png" width="20"> Excel
+<img src="icon/Word.png" width="20"> Word
+<img src="icon/hanword.png" width="20"> 한글
 
-**읽을 수 있는, 사용은 가능한 프로그래밍 언어 :**   <code><img height="20" src="https://img.icons8.com/nolan/96/c.png"></code> C
- <code><img height="20" src="icon/csharp.png"></code> C# <br>
+**읽을 수 있는, 사용은 가능한 프로그래밍 언어 :**   <img src="https://img.icons8.com/nolan/96/c.png" width="20"> C
+ <img src="icon/csharp.png" width="20"> C# <br>
 
 
 -----
