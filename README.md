@@ -18,6 +18,14 @@
 
 -----
 
+### 목차
+ 1. [개발 완료한 프로젝트](#개발-완료한-프로젝트-)<br>
+ 2. [사용하는 문서 툴](#문서-사용-시-자주-사용하는-도구-)<br>
+ 3. [자주 플레이하는 게임 목록](#자주-플레이-한-게임-목록)<br>
+ 4. [인상 깊은 연출](#이런-연출을-좋아하고-만들고-싶습니다)<br>
+<br>
+-----
+
 ## **개발 완료한 프로젝트 :**
 
 - [달의 파편](https://drive.google.com/file/d/1_F57CeFbwKo_CsG3QpBL20tzLBatSu4G/view?usp=sharing)
@@ -53,8 +61,11 @@
 <img src="icon/Word.png" width="20"> Word
 <img src="icon/hanword.png" width="20"> 한글
 
-**읽을 수 있는, 사용은 가능한 프로그래밍 언어 :**   <img src="https://img.icons8.com/nolan/96/c.png" width="20"> C
- <img src="icon/csharp.png" width="20"> C# <br>
+**읽을 수 있는 언어 :**
+ <img src="https://img.icons8.com/nolan/96/c.png" width="20"> C
+ <img src="icon/csharp.png" width="20"> C# 
+ <img src="icon/markdown.svg" width="30"> Markdown
+ <br>
 
 
 -----
