@@ -38,9 +38,9 @@
       - [방어구](https://assetstore.unity.com/packages/2d/gui/icons/110-free-armor-and-jewelry-icons-243902)
   - 프로토타입 개발 완료 및 종결
 
-- [기업 협약 프로젝트 : 해머디펜스]()
+- [기업 협약 프로젝트 : 해머디펜스](https://drive.google.com/drive/folders/18Uo28AhyfsfLpbqKetdakJSPQucx5Ty3?usp=sharing)
   - 2D 랜덤 유닛 디펜스 [수치/밸런스 디자인]
-  - PD : [배병준](jaemgoda@gmail.com)
+  - PD : 배병준
   - 개발팀장 : [유대경](https://github.com/kere0)
   - 프로토타입 개발 완료 및 종결
 <br>
